@@ -1,5 +1,5 @@
 # threatstories
-![threat stories](./ts_hoodie.jpeg?raw=true, "threatstories")
+![threat stories](./ts_hoodie.jpeg?raw=true =250x250, "threatstories")
 
 
 ### Contributing
