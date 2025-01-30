@@ -1,6 +1,9 @@
 # threatstories
 <img src="./ts_hoodie.jpeg?raw=true" width=50% height=50%>
 
+threatstories uses ollama to create compelling contents for your threat modeling workshop.
+Like true crime podcasts that reconstruct past mysteries, our workshops build hypothetical cybercrime scenarios through the eyes of potential attackers. You'll play the role of both detective and criminal mastermind, piecing together motives, means, and opportunities in your system's architecture.
+
 
 ### Contributing
 - We welcome contributions! Please see our Contributing Guidelines for details on how to submit pull requests, report issues, and contribute to development.
