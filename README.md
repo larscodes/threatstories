@@ -1,5 +1,5 @@
 # threatstories
-![threat stories](./ts_hoodie.jpeg?raw=true | width=300")
+<img src="./ts_hoodie.jpeg?raw=true" width=50% height=50%>
 
 
 ### Contributing
