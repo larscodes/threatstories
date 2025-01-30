@@ -1,5 +1,5 @@
 # threatstories
-![threat stories](ts_hoodie.jpg)
+![threat stories](./ts_hoodie.jpg)
 
 
 ### Contributing
