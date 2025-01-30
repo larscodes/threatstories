@@ -1,5 +1,5 @@
 # threatstories
-![threat stories](./ts_hoodie.jpg?raw=true, "threatstories")
+![threat stories](./ts_hoodie.jpeg?raw=true, "threatstories")
 
 
 ### Contributing
